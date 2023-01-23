@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataBindingDemo</string>
+    <string name="Enter_name">Enter Your Nic Name</string>
+    <string name="button_add">Add</string>
+</resources>
